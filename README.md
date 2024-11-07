@@ -1,1 +1,5 @@
-# TelTelegram_bot-变态自动删除加入退出信息机器人
+#TelTelegram_bot-变态自动删除加入退出信息机器人
+#
+“完全开源”
+#
+只需将第14行的Telegram_bot_key改成你自己的就可以使用了
